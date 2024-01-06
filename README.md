@@ -1,4 +1,4 @@
-# Collection of career sites of numerous companies
+# Collection of career sites of 400+ companies
 
 
 <!-- ## A   -->
